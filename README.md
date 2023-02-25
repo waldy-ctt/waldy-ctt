@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @waldy-ctt
 - 👀 I'm come from VietNam
-- 🌱 I’m currently learning C#
 - I can speak both Vietnamese and English
 - Feel free to contact me
 - Discord: waldy#0291
