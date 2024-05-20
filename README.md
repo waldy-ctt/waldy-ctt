@@ -2,6 +2,6 @@
 - 👀 I'm come from VietNam
 - I can speak both Vietnamese and English
 - Feel free to contact me
-- Discord: waldy#0291
+- Discord: waldyctt
 - Facebook: https://www.facebook.com/lethanhhieu.ctt
 - Email: clocktoktok@gmail.com
