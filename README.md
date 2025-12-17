@@ -35,3 +35,7 @@ Pico-From-Scratch - Custom Rust HAL for RP2040.
 Dotfiles - Arch Linux + RiverWM automation.
 
 Email • LinkedIn • Discord: waldyctt
+
+https://v0-portfolio-website-design-one-omega.vercel.app/
+
+Just random portfolio generate with v0. Didn't expect the outcome to be this good. Just want to share you guys.
