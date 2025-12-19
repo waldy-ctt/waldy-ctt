@@ -34,7 +34,7 @@ Pico-From-Scratch - Custom Rust HAL for RP2040.
 
 Dotfiles - Arch Linux + RiverWM automation.
 
-Email • LinkedIn • Discord: waldyctt
+[Email](mailto:clocktoktok@gmail.com "clocktoktok@gmail.com") • [LinkedIn](https://www.linkedin.com/in/le-thanh-hieu-464a5b257/) • Discord: waldyctt
 
 https://v0-portfolio-website-design-one-omega.vercel.app/
 
