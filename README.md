@@ -39,3 +39,5 @@ Dotfiles - Arch Linux + RiverWM automation.
 https://v0-portfolio-website-design-one-omega.vercel.app/
 
 Just random portfolio generate with v0. Didn't expect the outcome to be this good. Just want to share you guys.
+
+Moving to codeberg. Check by if interest [Codeberg](https://codeberg.org/waldy)
