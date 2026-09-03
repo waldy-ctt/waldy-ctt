@@ -36,8 +36,6 @@ Dotfiles - Arch Linux + RiverWM automation.
 
 [Email](mailto:clocktoktok@gmail.com "clocktoktok@gmail.com") • [LinkedIn](https://www.linkedin.com/in/le-thanh-hieu-464a5b257/) • Discord: waldyctt
 
-https://v0-portfolio-website-design-one-omega.vercel.app/
-
-Just random portfolio generate with v0. Didn't expect the outcome to be this good. Just want to share you guys.
+[https://v0-portfolio-website-design-one-omega.vercel.app/](https://waldy.vercel.app/)
 
 Moving to codeberg. Check by if interest [Codeberg](https://codeberg.org/waldy)
