@@ -6,15 +6,15 @@ I don't just use frameworks; I build the infrastructure beneath them.
 ```rust
 struct Developer {
     name: "Le Thanh Hieu (Waldy)",
-    location: "HCMC, Vietnam",
+    location: "Phu Quoc, Vietnam",
     roles: ["Systems Engineer", "Embedded R&D", "Full Stack Dev"],
-    os: "Arch Linux (RiverWM)",
+    os: "Arch Linux (Niri)",
     editor: "Neovim",
 }
 
 impl Developer {
     fn current_focus(&self) -> &str {
-        "Building high-concurrency systems with Rust & Bun"
+        "Build and tinkers projects"
     }
 }
 ```
