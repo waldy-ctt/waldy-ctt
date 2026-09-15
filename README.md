@@ -58,9 +58,24 @@ built with Kotlin.
 
 ## Stack
 
-**Backend:** TypeScript · NestJS · Node.js · MongoDB
-
-**Systems:** Rust · Linux · Docker
+```text
+╭─[ stack ]───────────────────────────────────────╮
+│                                                 │
+│  languages   TypeScript · Go                    │
+│  backend     NestJS · Node.js · MongoDB · Go    │
+│  frontend    Next.js · React · TailwindCSS      │
+│  database    MongoDB · SQLite                   │
+│  tooling     Git · Docker · Linux · Neovim      │
+│                                                 │
+├─[ environment ]─────────────────────────────────┤
+│                                                 │
+│  system      Linux (Arch)                       │
+│  editor      Neovim                             │
+│  wm          niri                               │
+│  focus       backend / systems / infrastructure │
+│                                                 │
+╰─────────────────────────────────────────────────╯
+```
 
 ## What I'm looking for
 
